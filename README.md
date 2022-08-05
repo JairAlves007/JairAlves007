@@ -20,7 +20,7 @@
   <img align="center" alt="Jair-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Jair-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Jair-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="right" alt="Jair-Photo" height="150" style="border-radius:50px;" src="https://instagram.ffor17-1.fna.fbcdn.net/v/t51.2885-15/280885644_695958608190051_3451191614063955549_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.ffor17-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Gt8GKgNfQ34AX8byIS9&tn=3XS3wZps18YcXvOU&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjgzODE0NTAxNjU5NTcyMzM1MQ%3D%3D.2-ccb7-5&oh=00_AT-83mEZAxDax97VMK-wV3sbLHRi6clH79Nj6u0u73i06Q&oe=62A79313&_nc_sid=30a2ef">
+  <img align="right" alt="Jair-Photo" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/62439850?v=4">
 </div>
   
 ##
