@@ -1,7 +1,6 @@
 ### Olá, eu sou Jair Alves 😎👍🏻
 
 - 🔭 Eu estou atualmente trabalhando com Desenvolvimento Roku
-- 🌱 Estou atualmente aprendendo Laravel
 
 ##
 
